@@ -10,12 +10,15 @@ In BuildConfig.groovy
         runtime ":angular-bootstrap:0.1"
 ```
 
+## Work in progress
+
+This is a work in progess at the moment
+
 ## Grails Plugins
 
 This project makes use of these plugins:
 
 * [Grails AngularJS Resources Plugin](https://github.com/smartiniOnGitHub/grails-angularjs-resources)
-* [Angular Annotate Asset Pipeline](https://github.com/craigburke/angular-annotate-asset-pipeline)
 
 ## Override Resources Definition
 
