@@ -23,7 +23,7 @@ grails.project.dependency.resolution = {
             export = false
         }
         
-        runtime ":resources:1.2.8" { export = false }
+        runtime(":resources:1.2.8") { export = false }
 		
 		runtime ":angularjs-resources:1.2.23"
 		

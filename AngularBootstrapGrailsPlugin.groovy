@@ -1,4 +1,4 @@
-class GrailsAngularBootstrapGrailsPlugin {
+class AngularBootstrapGrailsPlugin {
 
     def version = "0.1"
     def grailsVersion = "2.3 > *"    
